@@ -1,0 +1,12 @@
+// Grafo
+graph {
+	6 [label=B]
+	18 [label=A]
+	6 -- 18 [label=7]
+	19 [label=C]
+	6 -- 19 [label=6]
+	20 [label=D]
+	6 -- 20 [label=6]
+	21 [label=E]
+	6 -- 21 [label=5]
+}
